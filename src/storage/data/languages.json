@@ -1,0 +1,61 @@
+[
+  { "name": "English", "key": "en", "logo": "https://flagcdn.com/w320/gb.png" },
+  { "name": "Arabic", "key": "ar", "logo": "https://flagcdn.com/w320/sa.png" },
+  {
+    "name": "Belarusian",
+    "key": "be",
+    "logo": "https://flagcdn.com/w320/by.png"
+  },
+  { "name": "Catalan", "key": "ca", "logo": "https://flagcdn.com/w320/es.png" },
+  {
+    "name": "Croatian",
+    "key": "hr",
+    "logo": "https://flagcdn.com/w320/hr.png"
+  },
+  { "name": "Czech", "key": "cs", "logo": "https://flagcdn.com/w320/cz.png" },
+  { "name": "Dutch", "key": "nl", "logo": "https://flagcdn.com/w320/nl.png" },
+  { "name": "Finnish", "key": "fi", "logo": "https://flagcdn.com/w320/fi.png" },
+  { "name": "French", "key": "fr", "logo": "https://flagcdn.com/w320/fr.png" },
+  { "name": "German", "key": "de", "logo": "https://flagcdn.com/w320/de.png" },
+  { "name": "Hebrew", "key": "he", "logo": "https://flagcdn.com/w320/il.png" },
+  {
+    "name": "Hungarian",
+    "key": "hu",
+    "logo": "https://flagcdn.com/w320/hu.png"
+  },
+  {
+    "name": "Indonesian",
+    "key": "id",
+    "logo": "https://flagcdn.com/w320/id.png"
+  },
+  { "name": "Italian", "key": "it", "logo": "https://flagcdn.com/w320/it.png" },
+  { "name": "Kazakh", "key": "kk", "logo": "https://flagcdn.com/w320/kz.png" },
+  { "name": "Korean", "key": "ko", "logo": "https://flagcdn.com/w320/kr.png" },
+  { "name": "Malay", "key": "ms", "logo": "https://flagcdn.com/w320/my.png" },
+  {
+    "name": "Norwegian",
+    "key": "no",
+    "logo": "https://flagcdn.com/w320/no.png"
+  },
+  { "name": "Persian", "key": "fa", "logo": "https://flagcdn.com/w320/ir.png" },
+  { "name": "Russian", "key": "ru", "logo": "https://flagcdn.com/w320/ru.png" },
+  { "name": "Serbian", "key": "sr", "logo": "https://flagcdn.com/w320/rs.png" },
+  { "name": "Slovak", "key": "sk", "logo": "https://flagcdn.com/w320/sk.png" },
+  { "name": "Spanish", "key": "es", "logo": "https://flagcdn.com/w320/es.png" },
+  { "name": "Swedish", "key": "sv", "logo": "https://flagcdn.com/w320/se.png" },
+  { "name": "Turkish", "key": "tr", "logo": "https://flagcdn.com/w320/tr.png" },
+  {
+    "name": "Ukrainian",
+    "key": "uk",
+    "logo": "https://flagcdn.com/w320/ua.png"
+  },
+  { "name": "Uzbek", "key": "uz", "logo": "https://flagcdn.com/w320/uz.png" },
+  {
+    "name": "Mandarin Chinese",
+    "key": "zh",
+    "logo": "https://flagcdn.com/w320/cn.png"
+  },
+  { "name": "Hindi", "key": "hi", "logo": "https://flagcdn.com/w320/in.png" },
+  { "name": "Urdu", "key": "ur", "logo": "https://flagcdn.com/w320/pk.png" },
+  { "name": "Bengali", "key": "bn", "logo": "https://flagcdn.com/w320/bd.png" }
+]
